@@ -1,0 +1,78 @@
+body{
+	background-color:rgb(167, 236, 249); 
+}
+.navbar{
+	background-color: rgb(118, 199, 215);
+}
+.navbar-left{
+	margin-left: 120px;margin-top: 10px;
+	
+}
+.navbar-right{
+	float: right; margin-right: 120px;margin-top: 10px;
+	}
+.navlink{
+	color: rgb(250, 247, 243);
+	margin-left: 20px;
+}
+
+
+.elect {
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: rgb(167, 236, 249);
+	
+
+}
+.R1 {
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 150px 50px 50px 100px;
+	margin: 0px;
+}
+.R2{
+	display: flex;
+	display: -webkit-flex;
+	justify-content: center;
+	color: rgb(71, 132, 143);
+	padding-top: 40px;
+}
+.R3{
+	display: flex;
+	display: -webkit-flex;
+	justify-content: center;
+	color: rgb(71, 132, 143);
+}
+
+.pic{
+	width: 790px;
+	height: 120px;
+}
+.pic2{
+	width: 30px;
+	height: 30px;
+	background-color: rgb(167, 236, 249);
+}
+.electron{
+	display: inline;
+}
+.C2{
+	font-size: 130px;
+	t
+	color: rgb(71, 132, 143);
+}
+.container-fluid{
+	padding: 50px ;
+	margin: 80px;
+	text-align: center;
+	color: rgb(69, 130, 142);
+}
+#pictogether{
+	width: 150px;
+	height: 150px;
+
+}
